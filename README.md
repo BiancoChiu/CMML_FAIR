@@ -36,4 +36,4 @@ To predict using Remdesivir, use the following `curl` command:
 ```
 curl -F smiles='CCC(COC(=O)[C@@H](N[P@@](=O)(Oc1ccccc1)OC[C@H]1O[C@@]([C@@H]([C@@H]1O)O)(C#N)c1ccc2n1ncnc2N)C)CC' 
 ```
-
+The output can be found [here](https://github.com/BiancoChiu/CMML_FAIR/blob/main/demo_output.log).
